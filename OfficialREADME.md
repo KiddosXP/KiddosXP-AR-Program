@@ -9,7 +9,7 @@ Kiddos XP, also known as Kiddies XP, Is the upcoming project utilising Augemente
 - Building upon this, an effective learning platform integrating strategic learning methods as well as Augmented reality, a very useful program can be created, which is 
 essentially the crux of our AR program.
 - We therefore present the application Kiddos XP, a program which allows children to learn more of their surroundings as well as basics such as mathematics and geometry, at a ridiculously friendly and basic way for children to understand and enjoy.
-- The application has been specially created with the 
+- The application has been specially created knowing that children are the bridge to the next generation. Instead of being exposed to all the negative facets of technology and the internet, they are exposed to a better, fun, interactive material which can challenge their cognition in their early years.
 # Getting Started
 
 ***Grassroots learning***
